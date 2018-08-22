@@ -23,7 +23,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-  <%--lalalalalalal --%>
+  
     <%
     	
     	if(session.getAttribute("backvalue").toString().equals("2")){%>
